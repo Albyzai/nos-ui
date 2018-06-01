@@ -1,5 +1,8 @@
 # nOS-webinterface
 
+## Before you start
+Install the nOS client: https://github.com/nos/client
+
 ## Launching the app
 
 ```
